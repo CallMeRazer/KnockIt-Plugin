@@ -1,0 +1,7 @@
+name: KnockIt
+version: 0.1
+main: de.luis.knockit.main.Main
+author: Luis
+commands:
+   setspawn:
+      description: /setspawn
