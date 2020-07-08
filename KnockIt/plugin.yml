@@ -1,5 +1,5 @@
 name: KnockIt
-version: 0.1
+version: 1.0
 main: de.luis.knockit.main.Main
 author: Luis
 commands:
